@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TCobra.qss</file>
+        <file>Combinear.qss</file>
+    </qresource>
+</RCC>
